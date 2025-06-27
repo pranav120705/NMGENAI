@@ -41,7 +41,8 @@ This repository contains a comprehensive collection of **Generative AI** and **N
 ## 🏅 Certifications
 This repository includes work aligned with certifications in:
 - IBM AI Fundamentals
-- NLP and Computer Vision Specializations
+- ![image](https://github.com/user-attachments/assets/9b1898cb-b368-4293-b028-58b7ed241014)
+
 
 ---
 ## 🚧 This repository is continuously evolving. New GenAI use-cases and enhancements will be added regularly.
